@@ -1,0 +1,5 @@
+{
+	"min_protocol": 1,
+	"maintenance": {"on": false, "message": "", "eta": ""},
+	"modes_disabled": []
+}
